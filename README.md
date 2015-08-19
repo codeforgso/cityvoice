@@ -19,7 +19,7 @@ Following this documentation, a semi-technical user — someone with experience 
 
 Using the recommended deployment instructions below, the tech cost (hosting and other services) should run you about $50 per month.
 
-If you have problems using CityVoice, please [open an issue here on GitHub](https://github.com/codeforamerica/cityvoice/issues/new) and let us know what problems or difficulties you encountered in as much detail as you can.
+If you have problems using CityVoice, please [open an issue here on GitHub](https://github.com/codeforgso/cityvoice/issues/new) and let us know what problems or difficulties you encountered in as much detail as you can.
 
 
 Making a CityVoice survey
@@ -68,7 +68,7 @@ Below are example instructions for deploying to Heroku. The process will be simi
 
 First, clone the application:
 
-	$ git clone git@github.com:codeforamerica/cityvoice.git
+	$ git clone git@github.com:codeforgso/cityvoice.git
 
 Go into the repo folder:
 
@@ -137,7 +137,7 @@ Effective outreach might be the most important piece to making your use of CityV
 
 - The application is really built to ask questions about locations. Although it can work in other situations, it works best when tied to specific places.
 
-If you've used CityVoice before and have additional ideas, let us know! [Click here and describe your experience with doing CityVoice outreach](https://github.com/codeforamerica/cityvoice/issues/new).
+If you've used CityVoice before and have additional ideas, let us know! [Click here and describe your experience with doing CityVoice outreach](https://github.com/codeforgso/cityvoice/issues/new).
 
 
 For developers - local setup
@@ -149,7 +149,7 @@ CityVoice is a Ruby on Rails 4 application and uses Postgres as its database (ot
 
 To get started with development, clone the repo and cd into the directory:
 
-	$ git clone git@github.com:codeforamerica/cityvoice.git
+	$ git clone git@github.com:codeforgso/cityvoice.git
 	$ cd cityvoice
 
 Use Bundler to install dependencies:

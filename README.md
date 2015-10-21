@@ -1,4 +1,4 @@
-CityVoice [![Build Status](https://travis-ci.org/codeforamerica/cityvoice.svg?branch=master)](https://travis-ci.org/codeforamerica/cityvoice) [![Code Climate](https://codeclimate.com/github/codeforamerica/cityvoice.png)](https://codeclimate.com/github/codeforamerica/cityvoice)
+CityVoice Greensboro [![Build Status](https://travis-ci.org/codeforgso/cityvoice.svg)](https://travis-ci.org/codeforgso/cityvoice) [![Code Climate](https://codeclimate.com/github/codeforgso/cityvoice/badges/gpa.svg)](https://codeclimate.com/github/codeforgso/cityvoice) [![Test Coverage](https://codeclimate.com/github/codeforgso/cityvoice/badges/coverage.svg)](https://codeclimate.com/github/codeforgso/cityvoice/coverage)
 =========
 CityVoice is a place-based call-in system to collect community feedback on geographic entities (like vacant properties) using the simple, accessible medium of the telephone.
 
@@ -77,7 +77,7 @@ Go into the repo folder:
 Create a Heroku app:
 
     $ heroku create
-    
+
 Set the secret token:
 
     $ heroku config:set SECRET_TOKEN=`python -c 'import uuid; print uuid.uuid4()'`

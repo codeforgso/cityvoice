@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/codeforgso/cityvoice.png?label=ready&title=Ready)](https://waffle.io/codeforgso/cityvoice)
 CityVoice Greensboro [![Build Status](https://travis-ci.org/codeforgso/cityvoice.svg)](https://travis-ci.org/codeforgso/cityvoice) [![Code Climate](https://codeclimate.com/github/codeforgso/cityvoice/badges/gpa.svg)](https://codeclimate.com/github/codeforgso/cityvoice) [![Test Coverage](https://codeclimate.com/github/codeforgso/cityvoice/badges/coverage.svg)](https://codeclimate.com/github/codeforgso/cityvoice/coverage)
 =========
 CityVoice is a place-based call-in system to collect community feedback on geographic entities (like vacant properties) using the simple, accessible medium of the telephone.
